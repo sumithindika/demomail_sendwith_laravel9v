@@ -8,6 +8,8 @@
 </p>
 
 ## About Laravel
+![mail](https://github.com/sumithindika/demomail_sendwith_laravel9v/assets/78909005/7196bdd0-9466-4588-94a6-dd5896c54c9b)
+
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
